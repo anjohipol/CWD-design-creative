@@ -103,7 +103,7 @@ p {
 /* about section */
 #about {
   height: auto;
-  min-height: 400;
+  min-height: 400px;
 }
 #about p {
   line-height: 2em;
